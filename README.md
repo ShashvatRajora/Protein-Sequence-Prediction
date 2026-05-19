@@ -1,4 +1,8 @@
 # Protein Structure Prediction Pipeline
+
+The dataset comes from the ProteinNet project by Mohammed AlQuraishi:
+🔗 https://github.com/aqlaboratory/proteinnet
+
 ### CASP9 Dataset · Multi-Model ML/DL Evaluation · GPU-Accelerated
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
